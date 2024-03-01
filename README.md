@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/ngabrieleprojet" target="blank"><img src="https://img.shields.io/twitter/follow/ngabrieleprojet?logo=twitter&style=for-the-badge" alt="ngabrieleprojet" /></a> </p>
 
-- 🌱 Je suis en train d'apprendre **Powershell, Linux (Bash), Python**
+- 🌱 Je suis en train d'apprendre : **Powershell, Linux (Bash), Python**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://n-gabriele.fr](https://n-gabriele.fr)
 
 - 💬 Posez-moi des questions sur **Batch, Linux (Bash), Powershell, Python**
 
-- 📫 Comment me contacter **nathangabriele.etudes@gmail.com**
+- 📫 Comment me contacter : **nathangabriele.etudes@gmail.com**
 
-- ⚡ Fait amusant (Fun Fact) **Mon sens de l'humour est mon arme secrète pour naviguer à travers les défis de la vie**
+- ⚡ Fait amusant (Fun Fact) : **Mon sens de l'humour est mon arme secrète pour naviguer à travers les défis de la vie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
