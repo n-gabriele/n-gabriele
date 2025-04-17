@@ -60,5 +60,5 @@ Il améliore ma **visibilité** et facilite **l’accès à mes compétences** p
 ## 👨‍💻 Auteur
 
 **Nathan Gabriele**  
-📧 Contact : [votre.email@domaine.com]  
-🌍 Site : [ton.nomdedomaine.com] *(si disponible)*
+📧 Contact : [nathangabriele.etudes@gmail.com]  
+🌍 Site : [ngabriele.fr]
